@@ -14,7 +14,7 @@
 <hr>
 
   _Youtube channel._<br><br>
-     [![BOT-NEW](https://img.shields.io/badge/MY YOUTUBE CHANNEL-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@futuretechwithsanija?si=TK0O7Ov_WR5MIq54)
+     [![BOT-NEW](https://img.shields.io/badge/MY_YOUTUBE_CHANNEL-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@futuretechwithsanija?si=TK0O7Ov_WR5MIq54)
 <br>
 <hr>
 <b>CONTACT OWNER</b>
